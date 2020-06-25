@@ -2,4 +2,4 @@
 
 This is my about me project. It's not **everything** about me, but it's a start.
 
-![Picture of Aidan](aidan.jpg =250x)
+<img src="aidan.jpg" alt="Picture of Aidan" height="200" />
